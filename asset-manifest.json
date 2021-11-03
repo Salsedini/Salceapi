@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/salceapi/static/css/main.a617e044.chunk.css",
-    "main.js": "/salceapi/static/js/main.0b955029.chunk.js",
-    "main.js.map": "/salceapi/static/js/main.0b955029.chunk.js.map",
+    "main.js": "/salceapi/static/js/main.46b53f29.chunk.js",
+    "main.js.map": "/salceapi/static/js/main.46b53f29.chunk.js.map",
     "runtime-main.js": "/salceapi/static/js/runtime-main.0ea66d21.js",
     "runtime-main.js.map": "/salceapi/static/js/runtime-main.0ea66d21.js.map",
     "static/js/2.7e71993e.chunk.js": "/salceapi/static/js/2.7e71993e.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.0ea66d21.js",
     "static/js/2.7e71993e.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.0b955029.chunk.js"
+    "static/js/main.46b53f29.chunk.js"
   ]
 }
